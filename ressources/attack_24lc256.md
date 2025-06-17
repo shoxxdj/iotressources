@@ -1,6 +1,6 @@
 # Reconnaissance
 
-    ![Memoire EEPROM](medias/attack_24lc256/recon.png)
+![Memoire EEPROM](medias/attack_24lc256/recon.png)
 
 # Attaque
 

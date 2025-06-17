@@ -14,6 +14,8 @@ Les mémoires flash sont une variété d'EEPROM.
 
 ## Attacking
 
+- [Dump d'une EEPROM 24LC256](./attack_24lc256.md)
+
 ## Protections
 
 ## Example devices

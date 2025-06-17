@@ -137,3 +137,9 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+figcaption {
+text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+
