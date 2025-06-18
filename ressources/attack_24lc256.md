@@ -8,7 +8,7 @@
 
 Le contenu d'une mémoire EEPROM peut être dumpé à partir d'un device tiers.
 
-Avant de procéder, il est préférable de connaitre l'adresse [/ressources/i2c](I2C) utilisée par le device.
+Avant de procéder, il est préférable de connaitre l'adresse [I2C](i2c) utilisée par le device.
 
 ### Arduino
 
