@@ -12,8 +12,6 @@ Avant de procéder, il est préférable de connaitre l'adresse [/ressources/i2c]
 
 ### Arduino
 
-A partir d'une arduino :
-
 ```C
 #include <Wire.h>
 
