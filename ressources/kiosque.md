@@ -21,3 +21,5 @@ En fonction du type de device, différentes attaques peuvent être utilisées af
 - [Pin Screen](https://support.google.com/android/answer/9455138?hl=en)
 
 ## Ressources
+
+- [Swissky cheat sheet](https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/escape-breakout/#references)
