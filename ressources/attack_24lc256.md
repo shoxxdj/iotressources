@@ -18,12 +18,12 @@ Egallement à partir de la référence de l'EEPROM il faudra découvrir le cabla
 WP correspond à Write Protection (protection d'écriture), si ce pin est relié à GND il est possible d'écrire sur l'EEPROM. Dans le cadre d'une lecture cela n'a pas d'incidence.
 Les pins A0/A1/A2 permettent de faire varier l'adresse I2C de l'équipement si ils sont relié à 5v. Il est ainsi possible d'avoir 8 EEPROM en parallèle (Si du courant est envoyé dans ce pin le bit passe à 1 et ansi 2^3=8 adresses possibles)
 
-VCC : 5v
-GND(VSS) : GND
-WP : GND ou rien
-A0/A1/A2 : GND ou rien
-SDA : Pin i2c
-SCL : Pin i2c
+- VCC : 5v
+- GND(VSS) : GND
+- WP : GND ou rien
+- A0/A1/A2 : GND ou rien
+- SDA : Pin i2c
+- SCL : Pin i2c
 
 ### Arduino
 
