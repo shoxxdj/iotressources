@@ -22,4 +22,3 @@ const articleList = Object.entries(articles).map(([path, mod]) => {
     </ul>
   </div>
 </template>
-
