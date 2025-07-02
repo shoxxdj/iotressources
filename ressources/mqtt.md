@@ -29,4 +29,9 @@ Le service MQTT tourne générallement sur les ports suivants :
 
 ## Example devices
 
+- https://mqtt.org/
+- https://mosquitto.org/
+- https://www.zigbee2mqtt.io/
+- https://www.home-assistant.io/integrations/zha/
+
 ## Ressources
